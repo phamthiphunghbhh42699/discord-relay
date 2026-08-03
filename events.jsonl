@@ -1,1 +1,2 @@
 {"id":"init","source":"manual","content":"init file"}
+{"id": "test-1785736166", "source": "github_relay_writer_test", "guild_id": "1340918593067679799", "channel_id": "1422568332451909766", "message_id": "test-001", "author": "test-author", "content": "hello from github relay writer test", "url": "https://discord.com/channels/1340918593067679799/1422568332451909766/test-001", "ts": "2026-08-03T13:49:26+08:00"}
